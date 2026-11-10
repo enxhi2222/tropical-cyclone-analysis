@@ -9,3 +9,4 @@ geopandas
 cartopy
 pyarrow
 ipykernel
+netCDF4
